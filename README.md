@@ -11,7 +11,7 @@ Sample Questions
 7.	Which channel is contributing to maximum sales?
 8.	Highest selling category?, etc
 
-SAMPLE INSIGHTS
+INSIGHTS
 •	Women are more likely to buy compared to men (~65%)
 •	Maharashtra, Karnataka and Uttar Pradesh are the top 3 states (~35%)
 •	Adult age group (30-49 yrs) is max contributing (~50%)
