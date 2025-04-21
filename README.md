@@ -1,7 +1,7 @@
 # Excel--Store-Sales-Data-Analysis
 Objective:
 Store wants to create an annual sales report for 2022. So that, Vrindra can understand their customers and grow more sales in 2023.
-Sample Questions
+Questions
 1.	Compare the sales and orders using single chart
 2.	Which month got the highest sales and orders?
 3.	Who purchased more men or women in 2022?
@@ -19,3 +19,5 @@ INSIGHTS
 
 FINAL CONCLUSION TO IMPROVE VRINDRA STORE SALES:
 •	Target women customers of age group (30-49 yrs) lived in Maharashtra, Karnataka and Uttar Pradesh by showing ads/offers/coupons available on Amazon, Flipkart and Myntra.
+
+<img src="https://github.com/imkalpana/Excel--Store-Sales--Data-Analysis/blob/main/Dashboard.png">
