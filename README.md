@@ -1,6 +1,6 @@
-# Excel--Vrinda-Store-Data-Analysis
+# Excel--Store-Sales-Data-Analysis
 Objective:
-Vrindra store wants to create an annual sales report for 2022. So that, Vrindra can understand their customers and grow more sales in 2023.
+Store wants to create an annual sales report for 2022. So that, Vrindra can understand their customers and grow more sales in 2023.
 Sample Questions
 1.	Compare the sales and orders using single chart
 2.	Which month got the highest sales and orders?
